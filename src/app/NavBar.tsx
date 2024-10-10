@@ -1,7 +1,7 @@
 'use client';
 import React from 'react'
 import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap'
-import styles from "./page.module.css";
+
 
 
 const NavBar = () => {
@@ -11,7 +11,7 @@ const NavBar = () => {
 
     <Navbar expand="lg" className="bg-body-dark" bg="dark" variant="dark">
     <Container>
-        <Navbar.Brand href="#">Encrypt-Decrypt</Navbar.Brand>
+        <Navbar.Brand href="/">Encrypt-Decrypt</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

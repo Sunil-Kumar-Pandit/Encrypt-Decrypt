@@ -37,7 +37,7 @@
 
 /* a container - decorative, not required */
 .container {
-  /* border: 1px solid rgb(0, 0, 0); */
+  border: 1px solid rgb(0, 0, 0);
   width: 20rem;
   padding: 1rem;
   margin-left: auto;
