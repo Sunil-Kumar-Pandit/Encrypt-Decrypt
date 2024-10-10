@@ -11,7 +11,7 @@ const NavBar = () => {
 
     <Navbar expand="lg" className="bg-body-dark" bg="dark" variant="dark">
     <Container>
-        <Navbar.Brand href="/">Encrypt-Decrypt</Navbar.Brand>
+        <Navbar.Brand href="#">Encrypt-Decrypt</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
